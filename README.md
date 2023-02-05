@@ -1,0 +1,5 @@
+- 👋 Alfonz Montelibano
+- 👨‍💻 Senior Software Engineer
+- 💻 Javascript, PHP, Lua
+- 🛠️ vim, tmux, alacritty
+- ☕️ Hario V60
